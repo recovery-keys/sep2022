@@ -44,11 +44,13 @@ for i in {1..2}; do LC_ALL=C tr -dc 'A-Za-z0-9!"#$%&'\''()*+,-./:;<=>?@[\]^_`{|}
 
 ### obtain the key content:
 
+- `############KEY_ID############` to be replaced with key number.
 
+https://raw.githubusercontent.com/recovery-keys/sep2022/main/keys/############KEY_ID############.key
 
 ### tools
 - mogrify
 - exiftool
 - jpegoptim
 
-![alt text](https://raw.githubusercontent.com/recovery-keys/sep2022/sep2022/sep-2022_flow.drawio.png)
+![alt text](https://raw.githubusercontent.com/recovery-keys/sep2022/main/sep-2022_flow.drawio.png)
